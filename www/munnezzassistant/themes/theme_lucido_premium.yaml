@@ -1,0 +1,7 @@
+
+Lucido Premium:
+  primary-color: "#007AFF"
+  card-background-color: "#FFFFFF"
+  ha-card-border-radius: 16px
+  ha-card-box-shadow: "0px 4px 12px rgba(0, 0, 0, 0.1)"
+  font-family: "SF Pro Display", sans-serif

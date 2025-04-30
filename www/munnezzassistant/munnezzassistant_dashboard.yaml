@@ -1,0 +1,8 @@
+
+title: MunnezzAssistant
+views:
+  - title: Raccolta
+    path: raccolta
+    cards:
+      - type: markdown
+        content: "Benvenuto in MunnezzAssistant!"

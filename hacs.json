@@ -1,0 +1,13 @@
+{
+  "name": "MunnezzAssistant",
+  "author": "VesuvioCode",
+  "description": "Dashboard Lovelace premium per la raccolta differenziata con notifiche Alexa, animazioni e tema lucido.",
+  "version": "1.0.0",
+  "category": "lovelace",
+  "resources": [
+    {
+      "type": "yaml",
+      "url": "/local/munnezzassistant/munnezzassistant_dashboard.yaml"
+    }
+  ]
+}
