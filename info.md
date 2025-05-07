@@ -1,11 +1,15 @@
-## MunnezzAssistant
+# 🗑️ MunnezzAssistant
 
-Dashboard Lovelace premium per la raccolta differenziata.
+Una Lovelace Custom Card elegante per Home Assistant dedicata alla raccolta differenziata.
 
-### Funzionalità:
-- Card animate
-- Notifiche Alexa configurabili
-- Tema chiaro in stile HomeKit
-- Pulsante "spazzatura conferita"
+- Notifiche vocali Alexa
+- Animazioni dinamiche
+- Supporto multiutente
+- Grafica ispirata a HomeKit/Material
 
-![screenshot](https://raw.githubusercontent.com/VesuvioCode/munnezzassistant-hacs/main/www/munnezzassistant/images/screenshot.png)
+Usa la card con:
+
+```yaml
+type: custom:munnezzassistant-card
+title: Raccolta differenziata
+```

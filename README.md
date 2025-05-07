@@ -1,18 +1,29 @@
-# MunnezzAssistant
+# 🗑️ MunnezzAssistant – Dashboard Lovelace Ultra Premium
 
-> Dashboard Lovelace premium per la raccolta differenziata
+**MunnezzAssistant** è una dashboard Lovelace avanzata per Home Assistant dedicata alla raccolta differenziata, con:
 
-## Installazione via HACS
+- 🔔 Notifiche vocali Alexa
+- ♻️ Animazioni dinamiche (cestino, calendario)
+- 👥 Supporto multiutente
+- 🎨 Tema lucido stile HomeKit / Material Design
 
-1. Aggiungi questo repository a HACS → Repository personalizzati:
-   - URL: `https://github.com/VesuvioCode/munnezzassistant-hacs`
-   - Tipo: `Lovelace`
+## 🚀 Installazione tramite HACS
 
-2. Installa il pacchetto
+1. Aggiungi questo repository a HACS → Repositories personalizzati
+   ```
+   https://github.com/VesuvioCode/munnezzassistant-hacs
+   ```
+   Tipo: **Plancia**
 
-3. Vai su Impostazioni → Dashboard → Aggiungi da YAML:
-   - `www/munnezzassistant/munnezzassistant_dashboard.yaml`
+2. Installa MunnezzAssistant
 
-## Licenza
+3. Aggiungi questa card alla tua dashboard:
 
-MIT License
+```yaml
+type: custom:munnezzassistant-card
+title: Raccolta differenziata
+```
+
+## 📄 Licenza
+
+MIT – © 2025 Ivan Aragione · VesuvioCode

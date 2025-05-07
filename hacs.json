@@ -1,8 +1,9 @@
 {
   "name": "MunnezzAssistant",
   "content_in_root": false,
-  "filename": "www/munnezzassistant/munnezzassistant_dashboard.yaml",
+  "filename": "www/munnezzassistant/munnezzassistant.js",
   "domains": ["lovelace"],
-  "homeassistant": "2023.0.0",
-  "country": "IT"
+  "render_readme": true,
+  "country": "IT",
+  "homeassistant": "2023.0.0"
 }
