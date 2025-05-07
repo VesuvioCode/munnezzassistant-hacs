@@ -1,4 +1,4 @@
-# 🗑️ MunnezzAssistant – Dashboard Lovelace Ultra Premium
+# 🗑️ MunnezzAssistant – Dashboard Lovelace 
 
 **MunnezzAssistant** è una dashboard Lovelace avanzata per Home Assistant dedicata alla raccolta differenziata, con:
 
