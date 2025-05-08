@@ -1,9 +1,9 @@
 {
   "name": "MunnezzAssistant",
-  "content_in_root": false,
-  "filename": "www/munnezzassistant/munnezzassistant.js",
-  "domains": ["lovelace"],
+  "filename": "dist/munnezzassistant.js",
+  "type": "plugin",
   "render_readme": true,
-  "country": "IT",
-  "homeassistant": "2023.0.0"
+  "description": "Dashboard per la raccolta differenziata con notifiche Alexa",
+  "homeassistant": "2023.0.0",
+  "country": "IT"
 }
