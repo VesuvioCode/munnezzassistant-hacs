@@ -1,9 +1,11 @@
 {
   "name": "MunnezzAssistant",
-  "filename": "dist/munnezzassistant-card.js",
-  "type": "plugin",
-  "render_readme": true,
-  "description": "Dashboard per la raccolta differenziata con notifiche Alexa",
-  "homeassistant": "2023.0.0",
-  "country": "IT"
+  "version": "1.2.0",
+  "resources": [
+    {
+      "url": "dist/munnezzassistant-card.js",
+      "type": "module"
+    }
+  ],
+  "type": "lovelace"
 }
