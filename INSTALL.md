@@ -1,13 +1,19 @@
-# 📦 Guida all’Installazione di MunnezzAssistant via HACS
+# 📦 MunnezzAssistant – Guida all’Installazione via HACS
 
-Benvenuto! 🎉 Questa guida ti accompagna passo passo nell’installazione di **MunnezzAssistant**, la dashboard Lovelace premium per la raccolta differenziata, perfettamente integrata in **Home Assistant**.
+![Versione](https://img.shields.io/badge/version-1.1.0-blue)
+![Compatibilità](https://img.shields.io/badge/Home%20Assistant-2023.0%2B-green)
+![Licenza](https://img.shields.io/badge/licenza-MIT-brightgreen)
+![Installabile con HACS](https://img.shields.io/badge/HACS-Plancia-blue)
+
+Benvenuto! 🎉  
+Questa guida ti accompagna passo passo nell’installazione di **MunnezzAssistant**, la dashboard Lovelace premium per la raccolta differenziata, perfettamente integrata in **Home Assistant**.
 
 ---
 
 ## ⚙️ Requisiti
 
 ✅ Home Assistant aggiornato (consigliato 2023.0 o superiore)  
-✅ HACS installato e configurato  
+✅ HACS installato e funzionante  
 ✅ Connessione internet attiva
 
 ---
@@ -45,24 +51,19 @@ Benvenuto! 🎉 Questa guida ti accompagna passo passo nell’installazione di *
 
 ---
 
-## 🔁 Riavvio (se richiesto)
+## 🔁 Riavvio (se necessario)
 
-Se non vedi subito la dashboard, **riavvia Home Assistant** da  
+Se non vedi subito la dashboard:  
 **Impostazioni → Sistema → Controlli del server → Riavvia**
 
 ---
 
-## 🎯 Fatto!
+## 📬 Contatti
 
-Ora MunnezzAssistant è installato e pronto per essere utilizzato!  
-Avrai:
-- Notifiche vocali automatiche
-- Grafica premium in stile HomeKit
-- Animazioni dinamiche
-- Pulsanti “spazzatura conferita”
-- Integrazione completa con Lovelace
+Per assistenza o segnalazioni, compila il nostro modulo:  
+👉 [Contattaci](https://vesuviocode.github.io/munnezzassistant-site/contatti.html)
 
 ---
 
-Per domande o supporto → visita il sito ufficiale o contattaci via GitHub.  
-Grazie per aver scelto MunnezzAssistant! 💙
+Grazie per aver scelto MunnezzAssistant! 💙  
+Il tuo supporto e i tuoi feedback ci aiutano a migliorare.
