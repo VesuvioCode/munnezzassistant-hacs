@@ -1,6 +1,6 @@
 {
   "name": "MunnezzAssistant",
-  "filename": "dist/munnezzassistant.js",
+  "filename": "dist/munnezzassistant-card.js",
   "type": "plugin",
   "render_readme": true,
   "description": "Dashboard per la raccolta differenziata con notifiche Alexa",
