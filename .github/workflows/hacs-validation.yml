@@ -20,4 +20,4 @@ jobs:
       - name: Validazione struttura con HACS
         uses: hacs/action@main
         with:
-          category: lovelace
+          category: plugin
