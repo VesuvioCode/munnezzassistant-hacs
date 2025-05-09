@@ -1,0 +1,23 @@
+name: Controllo struttura HACS
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate-hacs:
+    name: Valida progetto HACS
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repository
+        uses: actions/checkout@v3
+
+      - name: Validazione struttura con HACS
+        uses: hacs/action@main
+        with:
+          category: lovelace
