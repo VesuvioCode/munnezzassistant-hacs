@@ -1,0 +1,1 @@
+![HACS Custom](https://img.shields.io/badge/HACS-Custom%20Component-blue?style=for-the-badge)
