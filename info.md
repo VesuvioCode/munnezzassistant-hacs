@@ -1,1 +1,1 @@
-MunnezzAssistant è una dashboard Lovelace per la raccolta differenziata con notifiche Alexa.
+MunnezzAssistant: Plugin Lovelace per la gestione della raccolta differenziata.
