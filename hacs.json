@@ -1,8 +1,9 @@
 {
   "name": "MunnezzAssistant",
   "filename": "dist/munnezzassistant-card.js",
-  "type": "plugin",
   "render_readme": true,
   "homeassistant": "2023.0.0",
-  "version": "1.2.0"
+  "version": "1.2.0",
+  "country": "IT",
+  "topics": ["lovelace", "homeassistant", "dashboard"]
 }
